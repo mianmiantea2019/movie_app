@@ -2,7 +2,7 @@
   "name": "movie-app",
   "version": "1.0.0",
   "description": "Use movie app to search for any movice and it will show you the movie name with image.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
